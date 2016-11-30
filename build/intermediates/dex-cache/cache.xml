@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_4c6e0d9a352d5ed7a7c312a641b26b599061bbd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.androidanimations-library-1.1.3_1aed11a06259d410b864c3baf564b32cdbc7bb6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_e85564a5d2607368b089d9be31440a98523acba9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_605bd752c1c91058d7cd90df126412d15d55c8c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_ae6cfe91226a8d91fc7fb01636b42a83d80c2d42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_12d419411fdda5602973d9b2c92bf298a9ce326f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e10fb88f21e731317271ff72dbd08d161895c3be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_ecc8c724171ed0096b9cb09bc81965e71deb5c54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_422452d9eb966b4f62f41a77a32eda3262ce2abc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_4af5f554695e09eeec0cfe2ec29258161cff10b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_258ad3c2fcab68e3b6a28e6c1220c5d7e39c7492\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7bf544bc3f025e993b5539dabb15043b772fce52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="80e442f5406bbc18b79f1d52dc557bbac3e5882c">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_df9f899cd2c04d1d08d70b11cee9644008794f34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_70a90f2e170125ce84525477267c4a910fbb2a93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_a2159545f56725036c0b58ba7ef0961a417c217c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a1a3af497ed7119e0918d2a3861a1a2c0e53b082">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_af74e59e3b2e3c33f6908c034762c1c5e08d9c28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.easing-library-1.0.1_6023251f44e917b6279171f6e4138d6f84cb11ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_1b19ce95e0dcf571127deacfef999f29e6194551\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_cf76cc05c15ae641b7f305b4150236a06ece52ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\ricar\AndroidStudioProjects\FortuneBall\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f50cc1ffa26dc83915157614a4d0f181565071cd\classes.dex" />
+    </item>
+
+</items>
